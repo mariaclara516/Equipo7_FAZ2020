@@ -1,0 +1,8 @@
+#btn-ingresar {
+    background-color: green;
+}
+
+.nav-pills .nav-link.active,
+.show>.nav-pills .nav-link {
+    background: green !important
+}
